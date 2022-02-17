@@ -1,4 +1,3 @@
-# Automation_Practice
 I have use the page object model and page factory classes for the project.
 I have divided into 4 packages Config, Pages, TestBase and Tests.
 The Config package, I have used for properties file.
